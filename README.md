@@ -11,7 +11,7 @@ I'm an AI Software Developer dedicated to pushing the boundaries of artificial i
 
 ## 📊 My GitHub Activity
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kgty0707&show_icons=true&theme=radical)
 
 
 ## 🤖 Projects
