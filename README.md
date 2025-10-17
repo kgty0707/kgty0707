@@ -1,4 +1,4 @@
-# Hello, I'm hyemin! 👋
+# Hello, I'm heymin! 👋
 
 I'm an AI Software Developer dedicated to pushing the boundaries of artificial intelligence and machine learning to create innovative software solutions. With a strong foundation in both theoretical concepts and practical applications, I'm passionate about leveraging AI to solve complex problems and improve lives.
 
